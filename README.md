@@ -1,0 +1,1 @@
+This repository contains a Python function that demonstrates an uncommon RecursionError. The function is designed to recursively calculate the sum of numbers from 0 to x. However, if x is a large negative number, the recursion depth exceeds the Python interpreter's limit, leading to a RecursionError.  The bugSolution.py file provides a corrected, iterative solution.
